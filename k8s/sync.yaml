@@ -90,4 +90,4 @@ metadata:
   namespace: webapp
 data:
   # property-like keys; each key maps to a simple value
-  GREYMATTER_GIT_REMOTE: "github.com/greymatterio/basic-app"
+  GREYMATTER_GIT_REMOTE: "git@github.com:jtaylortech/basic-app.git"
