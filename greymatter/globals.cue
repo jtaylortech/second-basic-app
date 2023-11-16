@@ -5,7 +5,7 @@ import (
 )
 
 globals: gsl.#DefaultContext & {
-	edge_host: ""
+	edge_host: "localhost:10809"
 	namespace: "webapp"
 	
 	// Please contact your mesh administrators as to what
