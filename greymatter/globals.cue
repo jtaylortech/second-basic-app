@@ -11,6 +11,6 @@ globals: gsl.#DefaultContext & {
 	// Please contact your mesh administrators as to what
 	// values must be set per your mesh deployment.
 	mesh: {
-		name: string
+		name: "JT-WebApp"
 	}
 }
